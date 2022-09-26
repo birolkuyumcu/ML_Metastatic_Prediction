@@ -1,7 +1,8 @@
 # ML_Metastatic_Prediction-
 Machine Learning Characterization of a Novel Panel for Metastatic Prediction in Breast Cancer
 
-##Background
+## Background
+
 Metastasis is one of the most challenging problems in cancer diagnosis and
 treatment, as its causes have not been yet well characterized. Prediction of
 the metastatic status of breast cancer is important in cancer research because
@@ -12,11 +13,11 @@ prediction of cancer metastasis is a challenging task due to the variation in
 parameters and conditions specific to individual patients and mutation of the
 sub-types.
 
-##Feature Selection
+## Feature Selection
 
-##Machine Learning 
+## Machine Learning 
 
-##Results
+## Results
 we apply tree-based machine learning algorithms for gene
 expression data analysis in the estimation of metastatic potentials within a
 group of 490 breast cancer patients. Hence, we utilize tree-based machine
